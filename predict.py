@@ -67,6 +67,8 @@ def app(df):
 
        pred_price = model.predict(f)
        pred_price = pred_price[0]
+        
+       st.warn("This will take 10 to 15 seconds to get you the predictions. KINDLY HOLD ON")
 
        st.success(f"The predicted price of the car: Rs.{int(pred_price):,}")
 
