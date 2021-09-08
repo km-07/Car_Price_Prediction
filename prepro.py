@@ -10,7 +10,7 @@ from sklearn.preprocessing import LabelEncoder
 def load_data():
     """This function perform preprocessing on dataset and return that"""
     # read the dataset.
-    df = pd.read_csv("D:\Template\Car details v3.csv")
+    df = pd.read_csv("./Car details v3.csv")
 
 #dropping null values
     df.dropna(axis=0, inplace=True)
