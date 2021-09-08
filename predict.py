@@ -71,7 +71,7 @@ def app(df):
         
   
 
-       st.success(f"The predicted price of the car: Rs.{int(pred_price):,}")
+       st.success(f"The predicted price of the car: Rs. {int(pred_price):,}")
 
 
 
