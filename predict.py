@@ -54,6 +54,7 @@ def app(df):
     features = [[brand_d[brand], year, km, fuel_d[fuel], seller_type_d[seller_type], trans_d[trans], owner_d[owner], mileage, engine, maxp, seats]]
 
     f = pd.DataFrame(features)
+    st.warning("This will take 10 to 15 seconds to get you the predictions. KINDLY HOLD ON")
 
     
 
@@ -68,7 +69,7 @@ def app(df):
        pred_price = model.predict(f)
        pred_price = pred_price[0]
         
-       st.warn("This will take 10 to 15 seconds to get you the predictions. KINDLY HOLD ON")
+  
 
        st.success(f"The predicted price of the car: Rs.{int(pred_price):,}")
 
