@@ -7,6 +7,10 @@ NOTE: The inputs by the user must be feasible as the model is trained on real wo
 ![4g](https://user-images.githubusercontent.com/71545431/132621232-48d716bc-2d30-4db9-b2b0-7a283c7af605.JPG)
 
 
-https://user-images.githubusercontent.com/71545431/132621356-62f907e9-cab3-4a9a-8119-739073ae0bd7.mp4
+
+
+https://user-images.githubusercontent.com/71545431/132621628-d752be21-c6df-4dd5-90d1-0b4f4a01de1d.mp4
+
+
 
 
