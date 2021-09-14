@@ -1,5 +1,5 @@
 # Car_Price_Prediction
-Link to the Web App: https://share.streamlit.io/km-07/car_price_prediction/main/main.py
+Link to the Web App: https://share.streamlit.io/km-07/car_price_prediction/main/main.py <br>
 This Web App uses ML model trained using XGBoost Regresion Algorithm to predict the current value of a car based on the inputs provided by the user. <br>
 This Web app is made and hosted using Streamlit. Streamlit is an open-source app framework for Machine Learning and Data Science teams. <br>
 NOTE: The inputs by the user must be feasible as the model is trained on real world data, thus the model expects values to be close to what we encounter in real world to give good predictions.![1g](https://user-images.githubusercontent.com/71545431/132621223-96df087b-c47c-42be-9a37-8b91c722ef11.JPG)
