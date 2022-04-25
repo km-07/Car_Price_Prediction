@@ -7,7 +7,7 @@ def app():
     st.balloons()
     st.title('Contact Us')
     st.markdown('''### Name:
-    Khushal Mehrotra''')
+    Tanmay Jain''')
     st.markdown('''### Email:
-    kmehrotra07@gmail.com''')
-    st.markdown('''### LinkedIn: [KhushalMehrotra](https://www.linkedin.com/in/khushal-mehrotra-5276091a9/)''')
+    tanmayjain245@gmail.com''')
+#     st.markdown('''### LinkedIn: [KhushalMehrotra](https://www.linkedin.com/in/khushal-mehrotra-5276091a9/)''')
